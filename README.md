@@ -13,7 +13,7 @@ The objectives are as follows:
 1. Devise a way to *programatically* get the content from the above blog link, and store it in a format that can be utilized by your frontend code. The page doesn't update often, so you shouldn't be concerned about storing stale data / keeping it fresh.
 2. Build a UI that meets the criteria of functionality and looks pleasing. The app should do the following:
     1. List out all the Netflix categories.
-    2. Click a category and it launches category info in a separate page (<http://<app-url>/INSERTNUMBER>).
+    2. Click a category and it launches category info in a separate page or same page (<http://<app-url>/INSERTNUMBER>). The category info and list of other categories belong to that genre. 
     3. A user should be able to type in a search box and see the results filter immediately below.
  
 ## Rules
